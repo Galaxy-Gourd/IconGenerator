@@ -1,4 +1,4 @@
-# Galaxy Gourd Icon Generator
+# Prefab Icon Generator
 
 Editor tool for rendering clean, transparent UI icons from prefabs — built for URP.
 
