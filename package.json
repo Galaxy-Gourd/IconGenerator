@@ -1,7 +1,7 @@
 {
   "name": "com.galaxygourd.icongen",
   "version": "1.0.0",
-  "displayName": "Galaxy Gourd Icon Generator",
+  "displayName": "GourdIconGen",
   "description": "Editor tool for rendering transparent UI icons from prefabs. Square or aspect-ratio (Tetris-grid) captures, supersampled clean alpha edges via two-pass reconstruction, configurable framing, orientation, and lighting. URP.",
   "unity": "2022.3",
   "keywords": [
